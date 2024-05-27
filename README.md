@@ -125,7 +125,7 @@ Estou adicionando dados aos poucos, conforme vou avançando nos estudos. Fique a
 
 ## Contato
 
-Se tiver alguma dúvida ou sugestão, sinta-se à vontade para me contatar através do GitHub ou pelo e-mail rogerfunaki@outlook.com
+Se tiver alguma dúvida ou sugestão, sinta-se à vontade para me contatar através do GitHub ou Linkedin https://www.linkedin.com/in/rogerfunaki/
 
 ---
 
