@@ -14,106 +14,107 @@ Aula 4 - Ferramenta Visual Code;
 Aula 5 - Introduzindo o CSS;
 Aula 6 - Formatando o HTML;
 Aula 7 - Usando Inputs;
+Aula 8 - Criando formulários;
 
 Scrum:
-Aula 8 - Sua Squad;
+Aula 9 - Sua Squad;
 
 CSS:
-Aula 9: Media Query;
-Aula 10: CSS flex;
-Aula 11: CSS grid;
-Aula 12: Bootstrap;
+Aula 10 - Media Query;
+Aula 11 - CSS flex;
+Aula 12 - CSS grid;
+Aula 13 - Bootstrap;
 
 Javascript - módulo I:
-Aula 13: Primeiros passos;
-Aula 14: Usando APIs;
-Aula 15: Primeira tela de cadastro;
+Aula 14 - Primeiros passos;
+Aula 15 - Usando APIs;
+Aula 16 - Primeira tela de cadastro;
 
 GIT:
-Aula 16: Usando GIT;
+Aula 17 - Usando GIT;
 
-Javascript - módulo II;
-Aula 17: Usando API fetch blog;
-Aula 18: Chamadas Post e Get;
+Javascript - módulo II:
+Aula 18 - Usando API fetch blog;
+Aula 19 - Chamadas Post e Get;
 
 Java - módulo I:
-Aula 19: Hello World;
-Aula 20: Métodos e condicionais I;
-Aula 21: Métodos e condicionais II;
-Aula 22: Laços de repetição;
-Aula 23: Introdução ao spring boot;
-Aula 24: Controller e Objeto pessoa;
-Aula 25: Utilizando Postman;
-Aula 26: Implementando objetos Request e response I;
-Aula 27: Implementando objetos Request e response II;
-Aula 28: Implementando Swagger;
-Aula 29: Autenticação JWT I;
-Aula 30: Autenticação JWT II;
-Aula 31: Autenticação JWT III;
-Aula 32: Autenticação JWT IV;
-Aula 33: Gerando e validando tokens;
-Aula 34: Refatorando o código para arquitetura Hexagonal;
-Aula 35: Refatorando o código;
-Aula 36: Configurando acesso ao banco de dados;
+Aula 20 - Hello World;
+Aula 21 - Métodos e condicionais I;
+Aula 22 - Métodos e condicionais II;
+Aula 23 - Laços de repetição;
+Aula 24 - Introdução ao spring boot;
+Aula 25 - Controller e Objeto pessoa;
+Aula 26 - Utilizando Postman;
+Aula 27 - Implementando objetos Request e response I;
+Aula 28 - Implementando objetos Request e response II;
+Aula 29 - Implementando Swagger;
+Aula 30 - Autenticação JWT I;
+Aula 31 - Autenticação JWT II;
+Aula 32 - Autenticação JWT III;
+Aula 33 - Autenticação JWT IV;
+Aula 34 - Gerando e validando tokens;
+Aula 35 - Refatorando o código para arquitetura Hexagonal;
+Aula 36 - Refatorando o código;
+Aula 37 - Configurando acesso ao banco de dados;
 
 Banco de dados SQL server:
-Aula 37: Instalação e configuração;
-Aula 38: Autenticação SQL Server;
-Aula 39: Primeiros comandos SQL Server;
-Aula 40: Chaves estrangeiras e junção de tabelas;
-Aula 41: Left join, Count, Max e Min;
-Aula 42: SubSelect e Adventure Work;
+Aula 38 - Instalação e configuração;
+Aula 39 - Autenticação SQL Server;
+Aula 40 - Primeiros comandos SQL Server;
+Aula 41 - Chaves estrangeiras e junção de tabelas;
+Aula 42 - Left join, Count, Max e Min;
+Aula 43 - SubSelect e Adventure Work;
 
 Java - módulo II:
-Aula 43: Entidades e Repositórios;
-Aula 44: Persistindo dados no banco;
-Aula 45: Tela de Login;
-Aula 46: Tela de Cadastro;
-Aula 47: Index I;
-Aula 48: Index II;
-Aula 49: Repository e Entity pessoa;
-Aula 50: Salvando dados da pessoa;
-Aula 51: Alteração de senha;
-Aula 52: Tela de histórico de Senha I;
-Aula 53: Tela de histórico de Senha II;
-Aula 54: Tela de detalhes;
-Aula 55: Deletando dados da Pessoa;
+Aula 44 - Entidades e Repositórios;
+Aula 45 - Persistindo dados no banco;
+Aula 46 - Tela de Login;
+Aula 47 - Tela de Cadastro;
+Aula 48 - Index I;
+Aula 49 - Index II;
+Aula 50 - Repository e Entity pessoa;
+Aula 51 - Salvando dados da pessoa;
+Aula 52 - Alteração de senha;
+Aula 53 - Tela de histórico de Senha I;
+Aula 54 - Tela de histórico de Senha II;
+Aula 55 - Tela de detalhes;
+Aula 56 - Deletando dados da Pessoa;
 
 Arquitetura:
-Aula 56: Projetando software I;
-Aula 57: UML;
-Aula 58: C4;
-Aula 59: Infra - Projetando Software;
+Aula 57 - Projetando software I;
+Aula 58 - UML;
+Aula 59 - C4;
+Aula 60 - Infra - Projetando Software;
 
 Docker:
-Aula 60: O que é docker?;
-Aula 61: Containers, Namespaces, Cgroups, File System, Imagens e Dockerfile;
-Aula 62: Instalação Docker Desktop;
-Aula 63: ERRATA - Correção de problemas ao subir docker;
-Aula 64: Docker Compose;
-Aula 65: Dockerfile - Criação e configuração de arquivo;
+Aula 61 - O que é docker?;
+Aula 62 - Containers, Namespaces, Cgroups, File System, Imagens e Dockerfile;
+Aula 63 - Instalação Docker Desktop;
+Aula 64 - ERRATA - Correção de problemas ao subir docker;
+Aula 65 - Docker Compose;
+Aula 66 - Dockerfile - Criação e configuração de arquivo;
 
 Cloud - AWS:
-Aula 66: Introdução ao conceito;
-Aula 67: Criação e Testando Serviços;
+Aula 67 - Introdução ao conceito;
+Aula 68 - Criação e Testando Serviços;
 
 Eventos:
-Aula 68: Arquitetura orientada a Eventos;
-Aula 69: Instalação e configuração do Rabbitmq;
-Aula 70: Configuração RabbitMQ e publicando a primeira mensagem;
-Aula 71: Consumindo Mensagens do Rabbit;
-Aula 72:Validando E-mail existente;
-Aula 73: Enviando E-mail;
+Aula 69 - Arquitetura orientada a Eventos;
+Aula 70 - Instalação e configuração do Rabbitmq;
+Aula 71 - Configuração RabbitMQ e publicando a primeira mensagem;
+Aula 72 - Consumindo Mensagens do Rabbit;
+Aula 73 - Validando E-mail existente;
+Aula 74 - Enviando E-mail;
 
 Cache:
-Aula 74: Introdução;
-Aula 75: Último detalhe;
-Aula 76: Configurando e salvando dados no redis;
-Aula 77: Recuperando dados no redis;
-Aula 78: Ajustes finais do Redis;
+Aula 75 - Introdução;
+Aula 76 - Último detalhe;
+Aula 77 - Configurando e salvando dados no redis;
+Aula 78 - Recuperando dados no redis;
+Aula 79 - Ajustes finais do Redis;
 
-Observabilidade: 
-Aula 79: Introdução a observabilidade;
+Observabilidade:
+Aula 80 - Introdução a observabilidade;
 
 ## Estrutura do Repositório
 
