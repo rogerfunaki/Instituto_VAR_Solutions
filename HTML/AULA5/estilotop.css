@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+    background-color: cadetblue;
+}
+body{
+    background-color: rgb(208, 211, 183);
+}
+p{
+    color: dimgray !important;
+}
