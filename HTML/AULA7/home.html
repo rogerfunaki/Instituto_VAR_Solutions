@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Home</title>
+</head>
+
+<body>
+    <div class="divcentralizada">
+        <img id="imagemperfil" width="120px" src="imagens/isaac.jpeg" alt="Imagem Isaac Newton">
+    </div>
+    <div class="divcentralizada">
+        <h1>Inscrição para concurso de física</h1>
+    </div>
+    <form action="http://www.google.com.br" target="_blank">
+        <div class="divtexto">
+            <label for="iputnome">Nome:</label><br>
+            <input type="text" id="inputnome" name="inputnome" placeholder="Digite seu Nome" required><br>
+        </div>
+
+        <div class="divtexto">
+            <label for="inputemail">Email:</label><br>
+            <input type="email" name="inputemail" id="inputemail" autocomplete="off" placeholder="Digite seu Email">
+        </div>
+
+        <div class="divtexto">
+            <label for="inpudatanascimento">Data de Nascimento</label><br>
+            <input type="date" name="inpudatanascimento" id="inpudatanascimento">
+        </div>
+
+        <div class="divtexto">
+            <label for="inputfile">Upload do RG</label><br>
+            <input type="file" id="inputfile" name="inputfile" required>
+        </div>
+
+        <div class="divtexto">
+            <label for="inputtelefone">Telefone:</label><br>
+            <input type="tel" name="inputtelefone" id="inputtelefone" placeholder="Digite o seu telefone">
+        </div>
+
+        <div class="divtexto">
+            <label for="inputcorfavorita">Selecione sua cor favorita:</label><br>
+            <input type="color" name="inputcorfavorita" id="inputcorfavorita">
+        </div>
+
+        <div class="divtexto">
+            <label for="inputidade">Idade:</label><br>
+            <input type="number" name="inputidade" id="inputidade" min="18" max="60" placeholder="Digite sua Idade">
+        </div>
+
+        <div class="divtexto">
+            <label for="inputsenha">Senha:</label><br>
+            <input type="password" name="inputsenha" id="inputsenha" required>
+        </div>
+
+        <div class="divtexto">
+            <label for="inputlisturma">Selecione uma turma:</label><br>
+            <input list="turmas">
+            <datalist id="turmas">
+                <option value="Manhã"></option>
+                <option value="Tarde"></option>
+                <option value="Noite"></option>
+                <option value="Sábado"></option>
+            </datalist>
+        </div>
+
+        <div class="divtexto">
+            <input type="submit" value="Cadastrar">
+        </div>
+
+    </form>
+</body>
+
+</html>
