@@ -1,0 +1,40 @@
+# Implementando o Scrum na Empresa
+
+Scrum é uma metodologia ágil amplamente utilizada para gerenciar projetos complexos e promover a entrega contínua de valor. Este guia oferece um passo a passo para implementar Scrum em uma empresa.
+
+## Formação de Times Scrum
+
+- **Product Owner (PO):** Responsável por maximizar o valor do produto e gerenciar o backlog do produto.
+- **Scrum Master:** Facilita o processo, remove impedimentos e assegura que a equipe siga os princípios do Scrum.
+- **Equipe de Desenvolvimento:** Grupo multifuncional que executa as tarefas necessárias para criar incrementos de produto.
+
+## Planejamento e Estrutura
+
+- **Product Backlog:** Lista priorizada de tudo que é necessário no produto, gerenciada pelo PO.
+- **Sprint Planning:** Reunião para planejar o trabalho a ser realizado na próxima Sprint, geralmente com duração de duas semanas.
+- **Sprint Backlog:** Conjunto de itens do backlog do produto selecionados para a Sprint, juntamente com um plano para entregar o incremento.
+
+## Execução e Colaboração
+
+- **Daily Scrum:** Reuniões diárias rápidas (15 minutos) para a equipe sincronizar atividades e planejar o dia.
+- **Desenvolvimento Incremental:** A equipe trabalha em ciclos curtos (Sprints) para entregar incrementos funcionais do produto.
+
+## Revisão e Ajuste
+
+- **Sprint Review:** Reunião ao final da Sprint onde o trabalho é inspecionado e adaptado conforme necessário. Os stakeholders revisam o incremento e fornecem feedback.
+- **Sprint Retrospective:** Reunião para refletir sobre a Sprint passada e identificar melhorias no processo.
+
+## Cultura de Melhoria Contínua
+
+- **Feedback Constante:** Encorajar uma comunicação aberta entre todas as partes envolvidas.
+- **Adaptação e Flexibilidade:** Estar aberto para ajustar processos e práticas conforme necessário, baseado no feedback e nas lições aprendidas.
+
+## Benefícios do Scrum
+
+- **Transparência:** Todos têm visibilidade do progresso e das prioridades.
+- **Adaptabilidade:** Capacidade de responder rapidamente às mudanças de mercado ou requisitos dos clientes.
+- **Entrega Contínua de Valor:** Foco na entrega de pequenos incrementos funcionais do produto de forma contínua.
+
+## Conclusão
+
+Implementar Scrum pode transformar a maneira como uma empresa gerencia projetos e entrega valor. Ao seguir as práticas recomendadas e fomentar uma cultura ágil, a equipe pode alcançar maior eficiência, qualidade e satisfação do cliente.
