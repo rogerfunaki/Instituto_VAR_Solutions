@@ -1,0 +1,23 @@
+h1, h2, h3, h4 {
+    background-color: blue;
+    color: white;
+}
+
+body {
+    background-color: rgb(211, 211, 211);
+}
+
+td:nth-child(even){
+    background-color: gray;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-left: 10px;
+}
+
+th {
+    background-color: dodgerblue;
+    height: 80px;
+}
